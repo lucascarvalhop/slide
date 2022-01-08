@@ -43,3 +43,9 @@ body {
     opacity: 1;
     transform: scale(1);
   }
+
+  .arrow-nav{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
